@@ -3,9 +3,7 @@ Hi there, I'm Roman </a>
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 <style>
         body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
+            
         }
         h1, h2, h3 {
             text-align: center;
@@ -24,10 +22,12 @@ Hi there, I'm Roman </a>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <span>README</span>
+    <span>README<an>
     
 </head>
-<body>
+<body style="font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;">
 
 <h1>Привет! Я Роман</h1>
 
