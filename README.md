@@ -2,8 +2,8 @@ Hi there, I'm Roman </a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 
-<h1 align="center"> <!DOCTYPE html>
-<h1 align="center"> <html lang="ru">
+<h1 align="center"/> <!DOCTYPE html>
+<h1 align="center"/> <html lang="ru">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
