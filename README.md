@@ -9,10 +9,7 @@ Hi there, I'm Roman </a>
             list-style-type: none;
             padding: 0;
         }
-        .contact {
-            text-align: center;
-            margin-top: 20px;
-        }
+
 </style>
 <h1 align="center"/> <!DOCTYPE html>
 <h1 align="center"/> <html lang="ru">
@@ -33,7 +30,8 @@ Hi there, I'm Roman </a>
 <p>Я люблю оптимизировать процессы и верю, что технологии могут значительно упростить наш мир. Именно поэтому я решил развиваться в этой области.</p>
 
 <h2>Мои цели</h2>
-<ul>
+<ul style="list-style-type: none;
+            padding: 0;">
     <li>Изучить новые технологии и инструменты в сфере IT.</li>
     <li>Развивать навыки программирования и анализа данных.</li>
     <li>Найти возможности для карьеры в IT, где смогу применить свои знания и опыт.</li>
