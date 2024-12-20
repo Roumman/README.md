@@ -7,8 +7,8 @@ Hi there, I'm Roman </a>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>README</title>
-<!--     <style>
+    <h1>README</h1>
+    <style>
         body {
             font-family: Arial, sans-serif;
             line-height: 1.6;
@@ -25,7 +25,7 @@ Hi there, I'm Roman </a>
             text-align: center;
             margin-top: 20px;
         }
-    </style> -->
+    </style>
 </head>
 <body>
 
