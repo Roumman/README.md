@@ -18,7 +18,7 @@ Hi there, I'm Roman </a>
             text-align: center;
             margin-top: 20px;
         }
-    </style>
+</style>
 <h1 align="center"/> <!DOCTYPE html>
 <h1 align="center"/> <html lang="ru">
 <head>
