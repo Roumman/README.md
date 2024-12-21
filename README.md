@@ -2,7 +2,7 @@ Hi there, I'm Roman </a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 
-<h1 align="center"">Привет! Я Роман</h1>
+<h1  src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <h2>О себе</h2>
 <p font="100px">Я студент Высшей школы экономики, обучаюсь по направлению <strong>"Инженерия данных"</strong>. В настоящее время работаю в финансовом секторе, но стремлюсь изменить направление своей деятельности и войти в мир IT.</p>
