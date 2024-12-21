@@ -29,14 +29,16 @@ Hi there, I'm Roman </a>
 
 <h2>Интерактивная информация</h2>
 <h3>Навыки, которые я хочу развить:</h3>
-<ul>
+<ul style="list-style-type: square;
+            padding: 0;">
     <li>Программирование (Python, Java)</li>
     <li>Работа с базами данных (SQL, NoSQL)</li>
     <li>Анализ данных и машинное обучение</li>
 </ul>
 
 <h3>Проекты, над которыми работаю:</h3>
-<ul>
+<ul style="list-style-type: square;
+            padding: 0;">
     <li><strong>Проект 1:</strong> Анализ финансовых данных</li>
     <li><strong>Проект 2:</strong> Визуализация данных</li>
 </ul>
