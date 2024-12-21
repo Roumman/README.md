@@ -9,7 +9,9 @@ Hi there, I'm Roman </a>
     <span>README<an>
     
 </head>
-<body style="body {font-family: Arial, sans-serif;
+<body style="body {
+            text-align: center;
+            font-family: Arial, sans-serif;
             line-height: 1.6;
             margin: 20px;}
             ul{
@@ -31,8 +33,7 @@ Hi there, I'm Roman </a>
 
 <h2>Интерактивная информация</h2>
 <h3>Навыки, которые я хочу развить:</h3>
-<ul style="list-style-type: square;
-            padding: 0;">
+<ul>
     <li>Программирование (Python, Java)</li>
     <li>Работа с базами данных (SQL, NoSQL)</li>
     <li>Анализ данных и машинное обучение</li>
