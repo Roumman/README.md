@@ -29,7 +29,7 @@
     <p><strong>Email:</strong> <a href="rflukin@edu.hse.ru">rflukin@edu.hse.ru</a></p>
 </div>
 
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6558042&theme=dark)](https://stackoverflow.com/users/6558042/omid-nikrah) 
+[![LukinR.F.StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6558042&theme=dark)](https://stackoverflow.com/users/6558042/omid-nikrah) 
 
 </body>
 </html>
