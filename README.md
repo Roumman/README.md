@@ -29,7 +29,7 @@
     <p><strong>Email:</strong> <a href="rflukin@edu.hse.ru">rflukin@edu.hse.ru</a></p>
 </div>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Roumman&theme=solarized_dark)
 
 </body>
 </html>
