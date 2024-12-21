@@ -29,7 +29,7 @@
     <p><strong>Email:</strong> <a href="rflukin@edu.hse.ru">rflukin@edu.hse.ru</a></p>
 </div>
 
-[![LukinR.F.StackOverflow]([https://github-readme-stackoverflow.vercel.app/?userID=6558042&theme=dark](https://github.com/Roumman))](https://stackoverflow.com/users/6558042/omid-nikrah) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark)
 
 </body>
 </html>
