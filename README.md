@@ -26,7 +26,6 @@
 
 <div class="contact">
     <h3>Контакты:</h3>
-    <p><strong>LinkedIn:</strong> <a href="#">Ваш профиль</a></p>
     <p><strong>Email:</strong> <a href="mailto:roman@example.com">roman@example.com</a></p>
 </div>
 
