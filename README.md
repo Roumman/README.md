@@ -9,14 +9,10 @@ Hi there, I'm Roman </a>
     <span>README<an>
     
 </head>
-<body style="body {
-            text-align: center;
+<body style="text-align: center;
             font-family: Arial, sans-serif;
             line-height: 1.6;
-            margin: 20px;}
-            ul{
-                list-style-type: none;
-            }">
+            margin: 20px;">
 
 <h1>Привет! Я Роман</h1>
 
