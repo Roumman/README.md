@@ -26,7 +26,7 @@
 
 <div class="contact">
     <h3>Контакты:</h3>
-    <p><strong>Email:</strong> <a href="mailto:roman@example.com">roman@example.com</a></p>
+    <p><strong>Email:</strong> <a href="rflukin@edu.hse.ru">roman@example.com</a></p>
 </div>
 
 </body>
