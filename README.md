@@ -29,8 +29,8 @@
     <p><strong>Email:</strong> <a href="rflukin@edu.hse.ru">rflukin@edu.hse.ru</a></p>
 </div>
 
+[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6558042&theme=dark)](https://stackoverflow.com/users/6558042/omid-nikrah) 
+
 </body>
 </html>
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
