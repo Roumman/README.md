@@ -9,10 +9,7 @@ Hi there, I'm Roman </a>
     <span>README<an>
     
 </head>
-<body style="text-align: center;
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;">
+<body>
 
 <h1 style="align: center;">Привет! Я Роман</h1>
 
