@@ -22,14 +22,13 @@
             padding: 0;">
     <li><strong>Проект 1:</strong> Анализ финансовых данных</li>
     <li><strong>Проект 2:</strong> Визуализация данных</li>
+    ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Roumman&theme=solarized_dark)
 </ul>
 
 <div class="contact">
     <h3>Контакты:</h3>
     <p><strong>Email:</strong> <a href="rflukin@edu.hse.ru">rflukin@edu.hse.ru</a></p>
 </div>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Roumman&theme=solarized_dark)
 
 </body>
 </html>
